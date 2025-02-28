@@ -41,5 +41,5 @@ This project presents an interactive **Amazon Sales Dashboard** that provides in
 
 ## Link to Dashboard
 
-[Click here to access the dashboard](#https://public.tableau.com/app/profile/dinesh.ram.a4642/viz/AmazonDineshTableau/Dashboard3) (Replace `#` with the actual link)
+[Click here to access the dashboard](https://public.tableau.com/app/profile/dinesh.ram.a4642/viz/AmazonDineshTableau/Dashboard3)
 
